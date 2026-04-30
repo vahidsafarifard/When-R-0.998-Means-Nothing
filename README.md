@@ -106,16 +106,15 @@ For chemists adopting ML, the critical decisions happen before any code runs:
 
 ## Installation
 
-```bash
-pip install pandas numpy matplotlib scikit-learn catboost
+    pip install pandas numpy matplotlib scikit-learn catboost
 
 ## Usage
 
-git clone https://github.com/YOUR_USERNAME/photocatalysis-ml-critique.git
-cd photocatalysis-ml-critique
-jupyter notebook
+    git clone https://github.com/YOUR_USERNAME/When-R-0.998-Means-Nothing.git
+    cd When-R-0.998-Means-Nothing
+    jupyter notebook
 
-Open critical_reproduction.ipynb and run all cells.
+Open `critical_reproduction.ipynb` and run all cells.
 
 ## Data
 
