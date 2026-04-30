@@ -16,7 +16,7 @@
 
 ## The Paper's Claim
 
-Jaffari et al. (Journal of Hazardous Materials, 2023) trained a CatBoost model on 1,200 data points with 10 features to predict malachite green dye degradation efficiency. They reported:
+The authors (Journal of Hazardous Materials, 2023) trained a CatBoost model on 1,200 data points with 10 features to predict malachite green dye degradation efficiency. They reported:
 
 - **R² = 0.998** on test data
 - Time was the most important feature (62.6%)
@@ -110,7 +110,7 @@ For chemists adopting ML, the critical decisions happen before any code runs:
 
 ## Usage
 
-    git clone https://github.com/YOUR_USERNAME/When-R-0.998-Means-Nothing.git
+    git clone https://github.com/vahidsafarifard/When-R-0.998-Means-Nothing.git
     cd When-R-0.998-Means-Nothing
     jupyter notebook
 
