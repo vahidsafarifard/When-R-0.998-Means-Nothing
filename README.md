@@ -123,6 +123,7 @@ The original dataset is from Jaffari et al. (2023), Journal of Hazardous Materia
 ## Author
 
 Vahid Safarifard
+
 This project is part of my journey as a chemist learning to critically evaluate machine learning in materials science. If you found this useful, let's connect on LinkedIn: https://www.linkedin.com/in/vahid-safarifard-018206153/
 
 ## License
